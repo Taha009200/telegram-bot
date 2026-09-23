@@ -1,3 +1,8 @@
+# ...
+[vars]
+APP_VERSION = "3.4.0"
+WEBHOCK_SECRET = "ponaienpanpinvpanpnfpvnnksknnapknpnrpvnnpnapnpnpvrnpanpnpnvpnrnpanprnpvnprnpanpnvp"
+# ...
 
 name = "telegram-bot"
 main = "src/index.js"
